@@ -29,13 +29,9 @@ The bug tracking system includes the following features:
 ## Technologies Used
 The bug tracking system is developed using the following technologies:
 
-- Java 11
-- Spring Framework (Spring Boot, Spring MVC, Spring Security)
-- Java Database Connectivity (JDBC)
-- JNDI
-- Servlets
-- JSP 
-- Oracle
+- Java 
+- GUI - Swing
+- MySQL
 
 ## Installation
 To set up the bug tracking system locally, follow these steps:
